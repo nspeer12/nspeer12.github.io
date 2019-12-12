@@ -26,17 +26,23 @@ projects:
      projects: ucfai/team-stonks
   exclude:
     archived: true
-    forks: true
+    forks: false
     projects:
 
 social_media:
   instagram: nspeer12
   website: http://nspeer.com
-  youtube: https://www.youtube.com/channel/UCdMslK4qA_HGxWI3rQFiTMw?view_as=subscriber
+  youtube: /channel/UCdMslK4qA_HGxWI3rQFiTMw
+
+work:
+   - name: Ecommerce Lending
+     image_url: http://www.ecommercelending.com/wp-content/uploads/2019/06/e-CommerceLending-logo-vector.png
+     description: website developer, data scientist
 
 topics:
   - name: Python
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png
+    description: I use Python for pretty much everything
 
   - name: Java
     image_url: https://icon-library.net/images/java-icon/java-icon-1.jpg
